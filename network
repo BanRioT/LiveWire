@@ -1,0 +1,10 @@
+{purple}  --- {white}Network Commands{purple}
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ {aqua_green}Ping     {purple}| {white}Test a networks availability                                      {purple}║
+║ {aqua_green}Pscan    {purple}| {white}Scan a network for open ports                                     {purple}║
+║ {aqua_green}Lookup   {purple}| {white}Find a ip addresses location                                      {purple}║
+║ {red}Booter   {purple}| {white}Flood a network or ip address                                     {purple}║
+║ {red}Nmap     {purple}| {white}Map out a network or ip address                                   {purple}║
+║ {aqua_green}Tracert  {purple}| {white}Trace a networks or ip address                                    {purple}║
+║ {aqua_green}Nslookup {purple}| {white}Lookup a ip addresses DNS                                         {purple}║
+╚══════════════════════════════════════════════════════════════════════════════╝
