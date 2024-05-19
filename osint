@@ -1,0 +1,7 @@
+{purple}  --- {white}Osint Commands{purple}
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ {aqua_green}Person.Search   {purple}| {white}Lookup information on a target                             {purple}║
+║ {aqua_green}Reverse.Address {purple}| {white}Reverse lookup info on a address                           {purple}║
+║ {aqua_green}Phone.Lookup    {purple}| {white}Reverse lookup info on a phonenumber                       {purple}║
+║ {aqua_green}Email.Lookup    {purple}| {white}Reverse lookup info on a email                             {purple}║
+╚══════════════════════════════════════════════════════════════════════════════╝
