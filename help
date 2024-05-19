@@ -1,0 +1,17 @@
+{purple}  --- Help Commands{purple}
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ {red}Hacking   {purple}| {white}View Hacking Tools list.                                         {purple}║
+║ {aqua_green}Network   {purple}| {white}View Network Tools list.                                         {purple}║
+║ {red}Exploits  {purple}| {white}View Exploits Tools list.                                        {purple}║
+║ {red}Matrix    {purple}| {white}View Matrix Tools list.                                          {purple}║
+║ {red}Brute     {purple}| {white}View brute Tools list.                                           {purple}║
+║ {aqua_green}Utils     {purple}| {white}View Utility Tools list.                                         {purple}║
+║ {aqua_green}Osint     {purple}| {white}View Osint Tools list.                                           {purple}║
+║ {red}Discord   {purple}| {white}View Discord Tools list.                                         {purple}║
+║                                                                              {purple}║
+║ {aqua_green}Changelog {purple}| {white}View the tool changelog.                                         {purple}║
+║ {aqua_green}Credits   {purple}| {white}View Discord Tools list.                                         {purple}║
+║ {aqua_green}News      {purple}| {white}View the news for updates!                                       {purple}║
+║ {aqua_green}Cls       {purple}| {white}clears the screen                                                {purple}║
+║ {aqua_green}Tes{white}t      {purple}| {red}For developers only!                                             {purple}║
+╚══════════════════════════════════════════════════════════════════════════════╝
