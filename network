@@ -6,6 +6,7 @@
 ║ {red}Booter   {purple}| {white}Flood a network or ip address                                     {purple}║
 ║ {red}Nmap     {purple}| {white}Map out a network or ip address                                   {purple}║
 ║ {aqua_green}Tracert  {purple}| {white}Trace a networks or ip address                                    {purple}║
-║ {aqua_green}Nslookup {purple}| {white}Lookup a ip addresses DNS                                         {purple}║]
+║ {aqua_green}Nslookup {purple}| {white}Lookup a ip addresses DNS                                         {purple}║
+║ {aqua_green}Weather  {purple}| {white}Lookup the weather via postal code                                {purple}║
 ║ {aqua_green}Tcp-ping {purple}| {white}Ping Port and IP Address                                          {purple}║
 ╚══════════════════════════════════════════════════════════════════════════════╝
