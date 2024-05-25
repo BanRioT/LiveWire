@@ -4,5 +4,5 @@
 ║ {aqua_green}Reverse.Address {purple}| {white}Reverse lookup info on a address                           {purple}║
 ║ {aqua_green}Phone.Lookup    {purple}| {white}Reverse lookup info on a phonenumber                       {purple}║
 ║ {aqua_green}Email.Lookup    {purple}| {white}Reverse lookup info on a email                             {purple}║
-║ {aqua_green}Account-check   {purple}| {white}Check to see if a username has other social media accounts {purple}║
+║ {aqua_green}Find            {purple}| {white}Finds information about a specific username or person      {purple}║
 ╚══════════════════════════════════════════════════════════════════════════════╝
